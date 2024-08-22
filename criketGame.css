@@ -1,0 +1,25 @@
+
+body{
+    text-align: center;
+}
+
+#reset{
+    width:70px;
+    background-color:olivedrab;
+    
+}
+
+.button-choisce{
+    height: 120px;
+    width: 120px;
+    margin: 10px;
+    border: none;
+    background-color: rgb(133, 167, 99);
+    cursor: pointer;
+
+}
+
+.image-choisce{
+    height:100px;
+    
+}
